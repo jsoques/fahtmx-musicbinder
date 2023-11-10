@@ -21,4 +21,4 @@ def get_app() -> FastAPI:
     return app
 
 
-app = get_app()
+server = get_app()
